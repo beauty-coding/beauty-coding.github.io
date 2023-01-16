@@ -1,13 +1,13 @@
 <!-- 导航栏 -->
 
-* 入门
+* 服务号开发
   * [快速开始](zh-cn/quickstart.md)
   * [多页文档](zh-cn/more-pages.md)
   * [定制导航栏](zh-cn/custom-navbar.md)
   * [封面](zh-cn/cover.md)
 
 
-* 配置
+* 小程序开发
   * [配置项](zh-cn/configuration.md)
   * [主题](zh-cn/themes.md)
   * [使用插件](zh-cn/plugins.md)
