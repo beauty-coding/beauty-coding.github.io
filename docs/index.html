@@ -23,19 +23,23 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'yufw的技术体系',
-      // 封面
+      name: 'yufw的技术分享',
+      // 封面 默认加载 _coverpage.md
       coverpage: true,
       // 只在访问主页时加载封面
       onlyCover: true,
       // 切换页面后是否自动跳转到页面顶部
       auto2top: true,
-      // 加载自定义侧边栏；默认加载 _sidebar.md 
-      loadSidebar: true,
+      // // 加载自定义侧边栏；默认加载 _sidebar.md 
+      // loadSidebar: true,
       // 配置导航 默认加载的文件为 _navbar.md
       loadNavbar: true,
       // 生成目录的最大层级
       subMaxLevel: 2,
+      // 渲染成目录
+      maxLevel: 3,
+      // 小屏设备下合并导航栏到侧边栏
+      mergeNavbar: true,
       repo: '',
 
     }
